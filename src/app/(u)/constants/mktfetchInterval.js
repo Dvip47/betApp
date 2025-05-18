@@ -1,0 +1,7 @@
+const INTERVAL = 3000
+const SCORES_INTERVAL = 7000
+
+export {
+    INTERVAL,
+    SCORES_INTERVAL
+}
